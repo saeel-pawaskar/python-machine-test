@@ -34,4 +34,4 @@ This program is a simple command-line tool for managing user information (Name, 
    Press 2 to display all user data.
    Press 3 to exit the program.
 
-5. ![Program Screenshot](images/screenshot.png)
+![Program Screenshot](images/screenshot.png)
